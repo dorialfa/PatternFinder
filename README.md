@@ -34,6 +34,8 @@ It will be in JSON format, with the following categories in it:
 - 4_byte : wil show you the 4 first bytes of the pattern.
 - type : will show you the type of the pattern, as written in the file you mentioned in -p.
 
+when the search is finished, you will be shown the runtime of the script.
+
 ## Examples for use-cases:
 * Finding offsets of paddings in a binary file.
 * Finding offsets of zip archives in a binary file.
