@@ -9,7 +9,7 @@ patternfinder is a fast commandline program for searching within binary files.
 * No compailing, Python3.5+, any Operation System.
 
 ## Syntax
-Usage: patternfinder.py -p <path to a pattern file written in JSON format> -f <binary_file> -o <outputfile> file to write results to (optional)
+Usage: patternfinder.py -p <pattern_file> -f <binary_file> -o <outputfile> file to write results to (optional)
 
 arguments:
 * -h, --help 
