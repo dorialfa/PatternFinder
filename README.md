@@ -6,7 +6,7 @@ patternfinder is a fast commandline program for searching within binary files.
 * Support in regex search.
 * Super fast searches.
 * Output your results to a file.
-* No compailing, Python3.5+, any Operation System.
+* No compiling, Python3.5+, any Operation System.
 
 ## Syntax
 Usage: patternfinder.py -p <pattern_file> -f <binary_file> -o <outputfile  (optional)>
